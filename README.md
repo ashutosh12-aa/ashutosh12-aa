@@ -14,56 +14,55 @@
 
 ## About Me
 
-Computer Science (AI & ML) graduate with strong foundations in Machine Learning, Data Analysis, and NLP.  
-I focus on building scalable, data-driven solutions that convert raw information into actionable business insights.
+Computer Science graduate specializing in Artificial Intelligence and Machine Learning.  
+I focus on building scalable data-driven systems that convert raw data into actionable insights.
 
-- Strong analytical mindset  
-- Experience in predictive modeling  
-- Practical implementation of ML pipelines  
-- Business-oriented problem solving  
-
----
-
-## Technical Skills
-
-**Programming:**  
-Python, SQL  
-
-**Data Analysis & Visualization:**  
-Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel  
-
-**Machine Learning:**  
-Regression, Classification, Clustering, Model Evaluation  
-
-**Tools:**  
-Jupyter Notebook, Git, GitHub  
+- Strong foundation in Python & SQL  
+- Experience in Machine Learning & NLP  
+- Skilled in Data Analysis and Visualization  
+- Business-oriented problem-solving mindset  
 
 ---
 
-## Selected Projects
+## Technical Expertise
+
+### Programming
+- Python  
+- SQL  
+
+### Data Analysis
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Excel  
+- Power BI  
+- Tableau  
+
+### Machine Learning
+- Regression  
+- Classification  
+- Clustering  
+- Model Evaluation  
+- Feature Engineering  
+
+### Tools
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## Key Projects
 
 ### Text Summarization (NLP)
-- Built extractive and abstractive summarization models  
+- Developed extractive and abstractive summarization models  
 - Implemented transformer-based techniques  
-- Improved document intelligence and readability  
+- Enhanced readability of large text datasets  
 
 ### Customer Churn Prediction
-- Conducted Exploratory Data Analysis (EDA)  
-- Applied feature engineering and preprocessing  
-- Built classification models with ROC-AUC evaluation  
-- Delivered actionable insights on churn behavior  
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh12-aa&layout=compact&theme=default&hide_border=true" />
-</p>
+- Conducted exploratory data analysis  
+- Performed feature engineering & preprocessing  
+- Built classification models evaluated using ROC-AUC  
+- Generated insights for churn reduction strategies  
 
 ---
 
@@ -71,11 +70,17 @@ Jupyter Notebook, Git, GitHub
 
 - Advanced Machine Learning  
 - NLP & Deep Learning  
-- End-to-end ML deployment  
-- Data-driven decision systems  
+- End-to-End ML Deployment  
+- Real-world AI Applications  
+
+---
+
+## Professional Objective
+
+To contribute to a forward-thinking organization by building intelligent, scalable, and impactful AI solutions.
 
 ---
 
 <p align="center">
-  <i>Committed to continuous learning and building impactful AI solutions.</i>
+<i>Focused on continuous growth and delivering measurable impact through data.</i>
 </p>
