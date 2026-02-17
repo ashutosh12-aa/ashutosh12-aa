@@ -40,6 +40,9 @@
 <p align="center">
   <b style="color:#00F7FF;">⚡ "Code. Analyze. Evolve." ⚡</b>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh12-aa/ashutosh12-aa/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ```
 
 ## 🧠 ▌SYSTEM PROFILE
