@@ -89,3 +89,6 @@ Built classification models with EDA, feature engineering, scaling & ROC-AUC eva
 <p align="center">
   <i>"Engineering intelligence through data."</i>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh12-aa/ashutosh12-aa/output/github-contribution-grid-snake-dark.svg" />
+</p>
