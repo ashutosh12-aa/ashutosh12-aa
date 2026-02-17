@@ -15,12 +15,12 @@
 ## About Me
 
 Computer Science graduate specializing in Artificial Intelligence and Machine Learning.  
-I focus on building scalable data-driven systems that convert raw data into actionable insights.
+I build scalable, data-driven systems that transform raw information into actionable insights.
 
 - Strong foundation in Python & SQL  
 - Experience in Machine Learning & NLP  
 - Skilled in Data Analysis and Visualization  
-- Business-oriented problem-solving mindset  
+- Business-oriented analytical mindset  
 
 ---
 
@@ -30,7 +30,7 @@ I focus on building scalable data-driven systems that convert raw data into acti
 - Python  
 - SQL  
 
-### Data Analysis
+### Data Analysis & Visualization
 - Pandas  
 - NumPy  
 - Matplotlib  
@@ -53,16 +53,28 @@ I focus on building scalable data-driven systems that convert raw data into acti
 
 ## Key Projects
 
-### Text Summarization (NLP)
+### 1️⃣ Text Summarization (NLP)
 - Developed extractive and abstractive summarization models  
 - Implemented transformer-based techniques  
-- Enhanced readability of large text datasets  
+- Improved readability and information extraction from large documents  
 
-### Customer Churn Prediction
+### 2️⃣ Customer Churn Prediction
 - Conducted exploratory data analysis  
-- Performed feature engineering & preprocessing  
-- Built classification models evaluated using ROC-AUC  
-- Generated insights for churn reduction strategies  
+- Applied feature engineering & preprocessing techniques  
+- Built classification models evaluated using Accuracy & ROC-AUC  
+- Generated actionable insights to reduce churn  
+
+### 3️⃣ Global Exchange Currency Analysis
+- Built a currency conversion and exchange rate analysis system  
+- Processed real-time and historical currency datasets  
+- Analyzed trends and fluctuations in global exchange markets  
+- Designed visualizations to compare currency performance  
+
+### 4️⃣ Turtle Racing Simulation
+- Developed a Python-based turtle racing game using graphical libraries  
+- Implemented object-oriented programming concepts  
+- Simulated race logic with randomized movement  
+- Enhanced user interaction and event-driven programming skills  
 
 ---
 
@@ -70,17 +82,17 @@ I focus on building scalable data-driven systems that convert raw data into acti
 
 - Advanced Machine Learning  
 - NLP & Deep Learning  
-- End-to-End ML Deployment  
+- Data Analytics for Business Intelligence  
 - Real-world AI Applications  
 
 ---
 
 ## Professional Objective
 
-To contribute to a forward-thinking organization by building intelligent, scalable, and impactful AI solutions.
+To contribute to a forward-thinking organization by developing intelligent, scalable, and impactful AI solutions.
 
 ---
 
 <p align="center">
-<i>Focused on continuous growth and delivering measurable impact through data.</i>
+<i>Committed to continuous learning and delivering measurable impact through data.</i>
 </p>
