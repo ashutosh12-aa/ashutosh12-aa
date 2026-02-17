@@ -1,91 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Ojha</h1>
-<h3 align="center">AI & ML Engineer | Data Analyst | Turning Data into Intelligent Solutions 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ashutosh+Ojha;AI+%26+ML+Engineer;Data+Analyst;Building+Intelligent+Data+Systems" />
+</p>
+
+<h3 align="center">AI & ML Engineer | Data Analyst | Scalable Intelligence Through Data</h3>
 
 <p align="center">
   <a href="mailto:ojha97858@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://linkedin.com/in/ashutosh-ojha-96857b203">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ashutosh12-aa">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ▌PROFILE
 
-🎓 B.Tech in Computer Science (AI & ML)  
-📍 Greater Noida, Uttar Pradesh  
-💡 Passionate about Artificial Intelligence, Data Science, and Business Analytics  
-
-I specialize in transforming raw data into actionable insights and building intelligent ML systems. I enjoy solving real-world problems using data-driven approaches and continuously learning emerging AI technologies.
+Computer Science (AI & ML) graduate focused on Machine Learning, NLP, and Data Analytics.  
+Transforming raw data into intelligent, scalable, and production-ready solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## ▌TECH STACK
 
-### 💻 Programming & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
 
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Statistics  
-- Model Evaluation  
-
-### 📈 Tools
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Tools
+![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## ▌SELECTED PROJECTS
 
-### 📝 Text Summarization (NLP Project)
-- Built extractive & abstractive text summarization system  
-- Used Transformer-based models  
-- Improved readability and information retrieval  
+### ▍NLP – Text Summarization
+Transformer-based extractive & abstractive summarization system for intelligent document processing.
 
-### 📊 Customer Churn Prediction
-- Performed EDA on customer behavior  
-- Applied encoding & scaling techniques  
-- Built classification models  
-- Evaluated using Accuracy, Precision, Recall & ROC-AUC  
+### ▍Customer Churn Prediction
+Built classification models with EDA, feature engineering, scaling & ROC-AUC evaluation.
 
 ---
 
-## 📈 GitHub Stats
+## ▌ACHIEVEMENTS & BADGES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh12-aa&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-Professional-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Specialization-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cricket-District_Level_Winner-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## ▌GITHUB ANALYTICS
 
-🏏 District-Level Cricket Tournament Winner  
-Demonstrated teamwork, consistency, and leadership.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
----
-
-## 🌱 Currently Learning
-- Advanced Machine Learning  
-- Deep Learning & NLP  
-- Data Engineering Fundamentals  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh12-aa&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-⭐ *"Data is powerful when transformed into meaningful insights."*
+## ▌CONTRIBUTION GRAPH (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh12-aa/ashutosh12-aa/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Engineering intelligence through data."</i>
+</p>
