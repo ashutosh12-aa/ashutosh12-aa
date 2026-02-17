@@ -1,27 +1,33 @@
-<!-- HACKER TERMINAL INTRO -->
+<!-- ULTRA DARK HACKER TERMINAL -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=%24+booting+system...;%24+loading+AI_modules...;%24+accessing+neural_core...;%24+Ashutosh_Ojha+online." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=root%40ashutosh:~%23+boot+sequence+initiated...;loading+ai_core.sys...;decrypting+neural_networks...;access+granted.;welcome+Ashutosh_Ojha." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=ghost&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/SYSTEM-ARMED-000000?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=ghost&logoColor=39FF14"/>
 </p>
 
 <p align="center">
 <pre>
 <code>
-> whoami
+root@ashutosh:~# whoami
 Ashutosh Ojha
 
-> role
+root@ashutosh:~# role
 AI & ML Engineer | Data Analyst
 
-> focus
-Machine Learning | NLP | Data Systems
+root@ashutosh:~# specialization
+Machine Learning • NLP • Data Intelligence
 
-> status
-Building Intelligent Intelligence...
+root@ashutosh:~# mission
+Build. Analyze. Dominate.
+
+root@ashutosh:~# █
 </code>
 </pre>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
