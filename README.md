@@ -44,11 +44,13 @@
   <img src="https://raw.githubusercontent.com/ashutosh12-aa/ashutosh12-aa/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ```
+---
 
+
+```markdown
 ## 🧠 ▌SYSTEM PROFILE
 
-```diff
-+ AI & ML Engineer
-+ Data Analyst
-+ NLP Specialist
-+ Building Intelligent Systems
+- AI & ML Engineer  
+- Data Analyst  
+- NLP Specialist  
+- Building Intelligent Systems
