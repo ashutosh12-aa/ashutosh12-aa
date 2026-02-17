@@ -12,83 +12,79 @@
 
 ---
 
-## 📊 Professional Dashboard
+# 📊 Technical Expertise Overview
 
-### 🟢 Programming
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Machine Learning','Data Analysis','Programming','Visualization'],datasets:[{data:[30,30,25,15],backgroundColor:['#4CAF50','#2196F3','#FF9800','#9C27B0']}]} }" width="450"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Core Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🔵 Data Analysis & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Professional-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Modeling-purple?style=for-the-badge)
 
 ---
 
-### 🟣 Machine Learning
+# 📁 Project Portfolio Distribution
 
-![Regression](https://img.shields.io/badge/Regression-Modeling-purple?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-Predictive-blueviolet?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/Clustering-Analytics-9cf?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-ROC--AUC-orange?style=for-the-badge)
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['NLP','Predictive Modeling','Finance Analytics','Simulation'],datasets:[{data:[25,30,25,20],backgroundColor:['#00BCD4','#E91E63','#FFC107','#8BC34A']}]} }" width="450"/>
+</p>
 
 ---
 
-## 📁 Key Projects
+## 🚀 Key Projects
 
 ### 🧠 Text Summarization (NLP)
 - Built extractive & abstractive summarization models  
 - Applied transformer-based techniques  
-- Improved document intelligence  
+- Improved large document readability  
 
 ---
 
 ### 📉 Customer Churn Prediction
 - Performed EDA & feature engineering  
-- Developed classification models  
-- Evaluated using Accuracy & ROC-AUC  
+- Built classification models  
+- Evaluated with Accuracy & ROC-AUC  
 
 ---
 
 ### 💱 Global Exchange Currency Analysis
-- Designed currency conversion system  
+- Developed currency conversion & analysis system  
 - Analyzed historical exchange trends  
-- Built visual comparison dashboards  
+- Designed comparison visualizations  
 
 ---
 
 ### 🐢 Turtle Racing Simulation
-- Developed Python-based graphical race simulation  
+- Created Python graphical race simulation  
 - Applied object-oriented programming  
-- Implemented randomized race logic  
+- Implemented randomized event logic  
 
 ---
 
-## 🎯 Core Strengths
+# 🎯 Professional Strengths
 
 ✔ Data Cleaning & Preprocessing  
-✔ Business Insight Generation  
+✔ Feature Engineering  
 ✔ Predictive Modeling  
 ✔ Dashboard Development  
-✔ Analytical Problem Solving  
+✔ Business Insight Generation  
 
 ---
 
-## 🚀 Current Focus
+# 📌 Current Focus
 
 - Advanced Machine Learning  
 - NLP & Deep Learning  
 - Business Intelligence Systems  
-- Real-world AI Solutions  
+- End-to-End AI Solutions  
 
 ---
 
 <p align="center">
-  <b>Turning Data into Decisions.</b>
+  <b>Transforming Data into Intelligent Decisions.</b>
 </p>
