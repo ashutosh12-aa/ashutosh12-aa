@@ -3,96 +3,92 @@
 
 <p align="center">
   <a href="mailto:ojha97858@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://linkedin.com/in/ashutosh-ojha-96857b203">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+## 📊 Professional Dashboard
 
-Computer Science graduate specializing in Artificial Intelligence and Machine Learning.  
-I build scalable, data-driven systems that transform raw information into actionable insights.
+### 🟢 Programming
 
-- Strong foundation in Python & SQL  
-- Experience in Machine Learning & NLP  
-- Skilled in Data Analysis and Visualization  
-- Business-oriented analytical mindset  
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## Technical Expertise
+### 🔵 Data Analysis & Visualization
 
-### Programming
-- Python  
-- SQL  
-
-### Data Analysis & Visualization
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Excel  
-- Power BI  
-- Tableau  
-
-### Machine Learning
-- Regression  
-- Classification  
-- Clustering  
-- Model Evaluation  
-- Feature Engineering  
-
-### Tools
-- Jupyter Notebook  
-- Git & GitHub  
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Professional-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Key Projects
+### 🟣 Machine Learning
 
-### 1️⃣ Text Summarization (NLP)
-- Developed extractive and abstractive summarization models  
-- Implemented transformer-based techniques  
-- Improved readability and information extraction from large documents  
-
-### 2️⃣ Customer Churn Prediction
-- Conducted exploratory data analysis  
-- Applied feature engineering & preprocessing techniques  
-- Built classification models evaluated using Accuracy & ROC-AUC  
-- Generated actionable insights to reduce churn  
-
-### 3️⃣ Global Exchange Currency Analysis
-- Built a currency conversion and exchange rate analysis system  
-- Processed real-time and historical currency datasets  
-- Analyzed trends and fluctuations in global exchange markets  
-- Designed visualizations to compare currency performance  
-
-### 4️⃣ Turtle Racing Simulation
-- Developed a Python-based turtle racing game using graphical libraries  
-- Implemented object-oriented programming concepts  
-- Simulated race logic with randomized movement  
-- Enhanced user interaction and event-driven programming skills  
+![Regression](https://img.shields.io/badge/Regression-Modeling-purple?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-Predictive-blueviolet?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-Analytics-9cf?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-ROC--AUC-orange?style=for-the-badge)
 
 ---
 
-## Current Focus
+## 📁 Key Projects
+
+### 🧠 Text Summarization (NLP)
+- Built extractive & abstractive summarization models  
+- Applied transformer-based techniques  
+- Improved document intelligence  
+
+---
+
+### 📉 Customer Churn Prediction
+- Performed EDA & feature engineering  
+- Developed classification models  
+- Evaluated using Accuracy & ROC-AUC  
+
+---
+
+### 💱 Global Exchange Currency Analysis
+- Designed currency conversion system  
+- Analyzed historical exchange trends  
+- Built visual comparison dashboards  
+
+---
+
+### 🐢 Turtle Racing Simulation
+- Developed Python-based graphical race simulation  
+- Applied object-oriented programming  
+- Implemented randomized race logic  
+
+---
+
+## 🎯 Core Strengths
+
+✔ Data Cleaning & Preprocessing  
+✔ Business Insight Generation  
+✔ Predictive Modeling  
+✔ Dashboard Development  
+✔ Analytical Problem Solving  
+
+---
+
+## 🚀 Current Focus
 
 - Advanced Machine Learning  
 - NLP & Deep Learning  
-- Data Analytics for Business Intelligence  
-- Real-world AI Applications  
-
----
-
-## Professional Objective
-
-To contribute to a forward-thinking organization by developing intelligent, scalable, and impactful AI solutions.
+- Business Intelligence Systems  
+- Real-world AI Solutions  
 
 ---
 
 <p align="center">
-<i>Committed to continuous learning and delivering measurable impact through data.</i>
+  <b>Turning Data into Decisions.</b>
 </p>
