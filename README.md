@@ -74,6 +74,9 @@
 
 ### 📺 Netflix Data Analysis
 <p>
+<a href="https://github.com/ashutosh12-aa/Netflix-Data-Analysis">
+<img src="https://img.shields.io/github/stars/ashutosh12-aa/Netflix-Data-Analysis?style=social"/>
+</a>
 <img src="https://img.shields.io/badge/Python-EDA-blue"/>
 <img src="https://img.shields.io/badge/Pandas-DataCleaning-yellow"/>
 <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-orange"/>
@@ -88,6 +91,9 @@
 
 ### 📰 News Sentiment Analysis Dashboard
 <p>
+<a href="https://github.com/ashutosh12-aa/News-Sentiment-Analysis">
+<img src="https://img.shields.io/github/stars/ashutosh12-aa/News-Sentiment-Analysis?style=social"/>
+</a>
 <img src="https://img.shields.io/badge/API-NewsAPI-red"/>
 <img src="https://img.shields.io/badge/NLP-TextBlob-blue"/>
 <img src="https://img.shields.io/badge/BI-PowerBI-yellow"/>
