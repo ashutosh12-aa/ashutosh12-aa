@@ -83,6 +83,22 @@ Model Evaluation
 
 ---
 
+### 📺 Netflix Data Analysis
+- Performed EDA on Netflix dataset using Python  
+- Analyzed content trends, genres, and country distribution  
+- Created visualizations using Matplotlib & Seaborn  
+- Identified growth trends and popular content categories  
+
+---
+
+### 📰 News Sentiment Analysis Dashboard
+- Extracted real-time news data using API  
+- Performed sentiment analysis (Positive, Neutral, Negative)  
+- Used NLP techniques with TextBlob  
+- Built interactive dashboard using Power BI  
+
+---
+
 # 🎯 Core Strengths
 
 ✔ Data Cleaning & Preprocessing  
