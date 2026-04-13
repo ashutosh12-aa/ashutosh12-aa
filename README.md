@@ -14,48 +14,22 @@
 
 # 📊 Technical Expertise Dashboard
 
-### 🟢 Programming
-Python  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
-
-SQL  
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
-
----
-
-### 🔵 Data Analysis
-Pandas  
-🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
-
-NumPy  
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%
-
-Power BI  
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 75%
-
-Excel  
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%
-
----
-
-### 🟣 Machine Learning
-Regression  
-🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 85%
-
-Classification  
-🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 85%
-
-Clustering  
-🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ 80%
-
-Model Evaluation  
-🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 85%
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,excel"/>
+</p>
 
 ---
 
 # 📁 Project Portfolio
 
+---
+
 ### 🧠 Text Summarization (NLP)
+<p>
+<img src="https://img.shields.io/badge/NLP-Transformers-blue"/>
+<img src="https://img.shields.io/badge/Python-90%25-green"/>
+</p>
+
 - Built extractive & abstractive models  
 - Applied transformer techniques  
 - Improved document readability  
@@ -63,6 +37,11 @@ Model Evaluation
 ---
 
 ### 📉 Customer Churn Prediction
+<p>
+<img src="https://img.shields.io/badge/MachineLearning-Classification-orange"/>
+<img src="https://img.shields.io/badge/Model-ROC--AUC-success"/>
+</p>
+
 - Conducted EDA & preprocessing  
 - Built classification models  
 - Evaluated with ROC-AUC  
@@ -70,6 +49,11 @@ Model Evaluation
 ---
 
 ### 💱 Global Exchange Currency Analysis
+<p>
+<img src="https://img.shields.io/badge/Data-Analysis-blue"/>
+<img src="https://img.shields.io/badge/Dashboard-Visualization-purple"/>
+</p>
+
 - Designed currency conversion system  
 - Analyzed global exchange trends  
 - Built visual comparison dashboards  
@@ -77,6 +61,11 @@ Model Evaluation
 ---
 
 ### 🐢 Turtle Racing Simulation
+<p>
+<img src="https://img.shields.io/badge/Python-OOP-yellow"/>
+<img src="https://img.shields.io/badge/Simulation-Graphics-lightgrey"/>
+</p>
+
 - Developed graphical race simulation  
 - Applied object-oriented programming  
 - Implemented randomized race logic  
@@ -84,6 +73,12 @@ Model Evaluation
 ---
 
 ### 📺 Netflix Data Analysis
+<p>
+<img src="https://img.shields.io/badge/Python-EDA-blue"/>
+<img src="https://img.shields.io/badge/Pandas-DataCleaning-yellow"/>
+<img src="https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-orange"/>
+</p>
+
 - Performed EDA on Netflix dataset using Python  
 - Analyzed content trends, genres, and country distribution  
 - Created visualizations using Matplotlib & Seaborn  
@@ -92,6 +87,12 @@ Model Evaluation
 ---
 
 ### 📰 News Sentiment Analysis Dashboard
+<p>
+<img src="https://img.shields.io/badge/API-NewsAPI-red"/>
+<img src="https://img.shields.io/badge/NLP-TextBlob-blue"/>
+<img src="https://img.shields.io/badge/BI-PowerBI-yellow"/>
+</p>
+
 - Extracted real-time news data using API  
 - Performed sentiment analysis (Positive, Neutral, Negative)  
 - Used NLP techniques with TextBlob  
