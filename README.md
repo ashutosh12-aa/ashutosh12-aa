@@ -12,6 +12,19 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh12-aa&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashutosh12-aa&theme=tokyonight" />
+</p>
+
+---
+
 # 📊 Technical Expertise Dashboard
 
 <p align="center">
