@@ -1,4 +1,4 @@
-<h1 align="center">Ashutosh Ojha</h1>
+ <h1 align="center">Ashutosh Ojha</h1>
 <h3 align="center">AI & ML Engineer | Data Analyst</h3>
 
 <p align="center">
@@ -12,18 +12,10 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh12-aa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutosh12-aa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh12-aa&theme=onedark&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
