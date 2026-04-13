@@ -1,4 +1,4 @@
- <h1 align="center">Ashutosh Ojha</h1>
+<h1 align="center">Ashutosh Ojha</h1>
 <h3 align="center">AI & ML Engineer | Data Analyst</h3>
 
 <p align="center">
@@ -17,6 +17,21 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashutosh12-aa&theme=onedark&no-frame=true&margin-w=10&row=1"/>
 </p>
+
+---
+
+# 🧠 Generative AI & Prompt Engineering
+
+<p>
+<img src="https://img.shields.io/badge/GenAI-Applications-blue"/>
+<img src="https://img.shields.io/badge/Prompt-Engineering-green"/>
+<img src="https://img.shields.io/badge/LLMs-ChatGPT%20%7C%20Claude-orange"/>
+</p>
+
+- Experienced in using **Generative AI tools** for automation and productivity  
+- Skilled in **prompt engineering** for structured and optimized outputs  
+- Built AI-assisted workflows for **data analysis, content generation, and coding**  
+- Familiar with Large Language Models (LLMs) like ChatGPT and Claude  
 
 ---
 
@@ -128,7 +143,7 @@
 
 - Advanced Machine Learning  
 - NLP & Deep Learning  
-- Business Intelligence Systems  
+- Generative AI Applications  
 - End-to-End AI Solutions  
 
 ---
