@@ -15,17 +15,20 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh12-aa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh12-aa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashutosh12-aa&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh12-aa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashutosh12-aa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Technical Expertise Dashboard
+# 📊 Technical Expertise
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,excel" />
