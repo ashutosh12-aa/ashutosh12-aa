@@ -5,7 +5,7 @@
   <a href="mailto:ojha97858@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="http://linkedin.com/in/ashutosh-ojha-96857b203">
+  <a href="https://linkedin.com/in/ashutosh-ojha-96857b203">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
 # 📊 Technical Expertise Dashboard
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,excel"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,excel" />
 </p>
 
 ---
