@@ -12,14 +12,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh12-aa&theme=onedark&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 # 🧠 Generative AI & Prompt Engineering
 
 <p>
